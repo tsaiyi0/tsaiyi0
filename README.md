@@ -6,7 +6,7 @@ I am an aspiring data scientist/analyst with experience in data cleaning, data a
 Here are my [projects](https://github.com/tsaiyi0/project-portfolio)!
 
 ## Tools 🧰
-- Languages: R, Python, SQL
+- Languages: R, Python, SQL, SAS
 - Visualization: PowerBI, Tableau
 
 
